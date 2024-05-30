@@ -5,7 +5,7 @@
 -->
 
 # A quick intro 
-<p> Hi, I am Aditya Pratap Singh,<br>I'm a full stack engineer, an open source enthusiast and a curious developer. I'm currently a junior in Computer Science and IIIT Delhi. Feel free to reach out to me via my Linktree.
+<p> Hi, I am Aditya Pratap Singh,<br>I'm a full stack engineer, an open source enthusiast and a curious developer. I'm currently a senior in Computer Science at IIIT Delhi. Feel free to reach out to me via my Linktree.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmrfitz)
